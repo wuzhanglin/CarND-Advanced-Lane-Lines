@@ -100,3 +100,12 @@ The video result file is "[./project_video_output.mp4](./project_video_output.mp
 - There is still problems detecting the lane where there are light noises in the challenge videos, we can try some other color spaces to reduce the light noises
 - The speed to produce the video is a little bit slow, there is space to improve the algorithm of the line detection and calculations
 - More improvements and information could be use from frame to frame to make pipeline more robust
+
+## Appendix
+
+#### Reviews from Udacity:
+It is obvious that you have put a lot of thought and hard work into this project, and the results are very impressive! The pipeline does an excellent job of identifying the lane lines in the project video, and the write-up is very thorough, making your project a pleasure to review!
+
+I am super happy that you visited and got useful information from the Slack Channel and are having a great learning experience. Keep up with this spirit and post your difficulties on the channel as well, sure you will make a great Self-Driving Car Engineer.
+
+This work could be nominated for excellence, as such, it will be nice to get feedback of the experience in the comment section after rating this review. Good luck with the next project!
